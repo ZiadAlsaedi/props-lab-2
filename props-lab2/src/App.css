@@ -1,0 +1,11 @@
+.card{
+  width: 18rem
+}
+.continer{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+.text{
+  color: aliceblue;
+}
