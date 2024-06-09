@@ -9,3 +9,8 @@
 .text{
   color: aliceblue;
 }
+
+.card-img-top{
+  width: 16vw;
+  height:20vh ;
+}
